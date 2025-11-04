@@ -1,0 +1,25 @@
+{
+  "name": "ai-vector-api",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000a\u0000i\u0000-\u0000v\u0000e\u0000c\u0000t\u0000o\u0000r\u0000-\u0000a\u0000p\u0000i\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kdissanayaka/ai-vector-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kdissanayaka/ai-vector-api/issues"
+  },
+  "homepage": "https://github.com/kdissanayaka/ai-vector-api#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "openai": "^6.8.0"
+  }
+}
